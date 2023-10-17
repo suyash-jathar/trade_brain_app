@@ -1,5 +1,4 @@
-# trade_brain_app
-
+# Trade Brain App
 A new Flutter project.
 
 ## Getting Started
@@ -14,3 +13,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+Screen Recording :-
+[trade_brain_app.webm](https://github.com/suyash-jathar/trade_brain_app/assets/106230225/bd8869d0-d04f-46aa-afc4-31d17ddbfcd9)
